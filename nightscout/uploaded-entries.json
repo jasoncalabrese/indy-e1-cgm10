@@ -725,11 +725,11 @@
     "direction": "FortyFiveDown", 
     "sgv": 90, 
     "dateString": "2016-11-14T15:05:46-08:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 102160, 
-    "rssi": 182, 
     "date": 1479164746000, 
+    "unfiltered": 102160, 
     "filtered": 113600, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 182, 
     "type": "sgv", 
     "glucose": 90
   }
