@@ -1,5 +1,37 @@
 [
   {
+    "trend_arrow": "SINGLE_DOWN", 
+    "system_time": "2016-11-15T02:34:43", 
+    "noise": 1, 
+    "direction": "SingleDown", 
+    "sgv": 163, 
+    "display_time": "2016-11-14T18:47:24", 
+    "date": 1479178044000.0, 
+    "dateString": "2016-11-14T18:47:24", 
+    "unfiltered": 145600, 
+    "filtered": 161376, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 443, 
+    "type": "sgv", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-11-15T02:29:43", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "sgv": 173, 
+    "display_time": "2016-11-14T18:42:24", 
+    "date": 1479177744000.0, 
+    "dateString": "2016-11-14T18:42:24", 
+    "unfiltered": 151936, 
+    "filtered": 166752, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 450, 
+    "type": "sgv", 
+    "glucose": 173
+  }, 
+  {
     "trend_arrow": "FLAT", 
     "system_time": "2016-11-15T02:24:42", 
     "noise": 1, 
@@ -72,40 +104,8 @@
     "display_time": "2016-11-14T18:22:03", 
     "date": 1479176523000.0, 
     "dateString": "2016-11-14T18:22:03", 
-    "unfiltered": 170976, 
-    "filtered": 170016, 
     "device": "openaps://indy-e1/cgm", 
-    "rssi": 193, 
     "type": "sgv", 
     "glucose": 174
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-11-15T02:04:42", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "sgv": 180, 
-    "display_time": "2016-11-14T18:17:03", 
-    "date": 1479176223000.0, 
-    "dateString": "2016-11-14T18:17:03", 
-    "unfiltered": 171936, 
-    "filtered": 165280, 
-    "device": "openaps://indy-e1/cgm", 
-    "rssi": 189, 
-    "type": "sgv", 
-    "glucose": 180
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-11-15T01:59:42", 
-    "noise": 1, 
-    "direction": "FortyFiveUp", 
-    "sgv": 181, 
-    "display_time": "2016-11-14T18:12:03", 
-    "date": 1479175923000.0, 
-    "dateString": "2016-11-14T18:12:03", 
-    "device": "openaps://indy-e1/cgm", 
-    "type": "sgv", 
-    "glucose": 181
   }
 ]
