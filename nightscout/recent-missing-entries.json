@@ -55,11 +55,11 @@
     "direction": "SingleUp", 
     "sgv": 121, 
     "dateString": "2016-12-05T09:29:58-08:00", 
-    "date": 1480958998000, 
-    "unfiltered": 155744, 
-    "filtered": 137984, 
     "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 155744, 
     "rssi": 212, 
+    "date": 1480958998000, 
+    "filtered": 137984, 
     "type": "sgv", 
     "glucose": 121
   }
